@@ -25,10 +25,10 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays t
 
 📌 Future Improvements
 
--🌎 Show weather by current location (Geolocation API)
--🌙 Dark / Light mode toggle
--❄️ Add more weather conditions (Snow, Thunderstorm, Haze)
--⏳ Loading spinner while fetching data
+🌎 Show weather by current location (Geolocation API)
+🌙 Dark / Light mode toggle
+❄️ Add more weather conditions (Snow, Thunderstorm, Haze)
+⏳ Loading spinner while fetching data
 
 ---
 
